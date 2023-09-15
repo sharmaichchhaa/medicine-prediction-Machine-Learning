@@ -20,6 +20,3 @@ Sharma, Ichchha Pradeep. "Prioritizing Discordant Chronic Comorbidities and Pred
 [View publication](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=dayton1691091753892667)
 
 <img src="https://github.com/sharmaichchhaa/medicine-prediction-Machine-Learning/assets/125387628/9227a5e2-051b-4955-a4e1-e3fcdc4c66a0" width="500">
-
-
-<img src="https://github.com/favicon.ico" width="48">
