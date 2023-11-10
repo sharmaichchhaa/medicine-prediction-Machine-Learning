@@ -14,7 +14,9 @@ Patients with DCCs experience constantly changing treatment needs that require t
 
 To design this tool, we first explored how healthcare professionals include unique patients’ preferences when deciding on a medication plan for their patients. To do this exploration, we conducted a survey, targeting healthcare professionals. We used the processed data from that survey to train the commonly used machine learning models (including Random Forest, K-nearest neighbors, AdaBoost and XGBoost). We created benchmarks based on the performance of each model and designed an iterative user interface that captures patients’ treatment concerns and returns the optimal medication regimen. 
 
-## Publication:
+https://docs.google.com/spreadsheets/d/1PyGvOfeVpqDlSLbEBksajw3wNxNPPf8CzAhfoa6se_A/edit?usp=sharing
+
+## Details:
 Sharma, Ichchha Pradeep. "Prioritizing Discordant Chronic Comorbidities and Predicting the Medication Using Machine Learning ." Master's thesis, University of Dayton, 2023. http://rave.ohiolink.edu/etdc/view?acc_num=dayton1691091753892667
 
 [View publication](https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=dayton1691091753892667)
